@@ -50,25 +50,25 @@ export const INSTAGRAM_POSTS = [
     productTag: 'Original 40g Royal Chand Haar'
   },
   {
-    id: 'ig-rani-haar',
-    image: '/images/dhunna-rani-haar-box.jpg',
-    caption: 'Imperial Amritsari Rani Haar & matching jhumkas in our luxury red velvet bridal trousseau box. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
-    likes: '4,650',
-    productTag: 'Imperial Rani Haar Suite (65.50g)'
+    id: 'ig-teal-choker',
+    image: '/images/dhunna-real-teal-choker.jpg',
+    caption: 'Royal Meenakari & Emerald Antique 22KT Choker Suite under showroom spotlight. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
+    likes: '4,890',
+    productTag: 'Royal Antique Choker (54.20g)'
   },
   {
-    id: 'ig-kadas-box',
-    image: '/images/dhunna-kadas-box.jpg',
-    caption: 'Heavy solid 22KT gold Punjabi Sher-Mukhi (lion-head) kada pair with ruby eyes in velvet box. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
-    likes: '5,120',
-    productTag: 'Sher-Mukhi Kada Pair (45.00g)'
+    id: 'ig-rani-haar-emerald',
+    image: '/images/dhunna-real-rani-haar-emerald.jpg',
+    caption: 'Imperial Punjabi Navratan Rani Haar & Tikka Suite in our luxury black velvet trousseau box. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
+    likes: '5,340',
+    productTag: 'Navratan Rani Haar Suite (78.50g)'
   },
   {
-    id: 'ig-choker-box',
-    image: '/images/dhunna-choker-box.jpg',
-    caption: 'Shahi Gulbandh 22KT gold choker with delicate gold droplet bells in our velvet case. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
-    likes: '3,890',
-    productTag: 'Shahi Gulbandh Choker (48.00g)'
+    id: 'ig-pippal-patti',
+    image: '/images/dhunna-real-pippal-patti-set.jpg',
+    caption: 'Traditional Punjabi Pippal Patti Folk necklace & earring set resting on showroom velvet. 💎 ਗਹਿਣੇ ਨਹੀਂ, ਵਿਰਾਸਤ ਬਣਾਉਂਦੇ ਹਾਂ',
+    likes: '4,620',
+    productTag: 'Pippal Patti Folk Set (38.50g)'
   },
   {
     id: 'ig-showroom-interior-2',

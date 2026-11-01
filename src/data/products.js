@@ -118,219 +118,307 @@ export const PRODUCTS = [
     culturalSignificance: 'The Chand Haar is the quintessential royal necklace of Punjabi aristocratic heritage, traditionally gifted at Anand Karaj and high celebrations.'
   },
   {
-    id: 'dj-rani-haar',
-    name: 'Imperial Amritsari 22KT Rani Haar Bridal Box Suite',
-    category: 'bridal-sets',
-    subcategory: 'Bridal Sets',
-    goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 65.50,
-    netWeight: 65.50,
-    makingCharges: '12%',
-    price: 938500, // 65.5g @ 12,480/g + 12% making + 3% GST
-    isNew: true,
-    isBestSeller: true,
-    isBridal: true,
-    isOriginalShowroomPiece: true,
-    badgeText: 'LUXURY BRIDAL BOX SUITE',
-    images: [
-      '/images/dhunna-rani-haar-box.jpg',
-      '/images/dhunna-showroom-interior-2.jpg'
-    ],
-    shortDesc: 'A grand multi-tier 22KT gold Punjabi Rani Haar with matching jhumkas presented inside our branded luxury red velvet trousseau box.',
-    description: 'Forged in pure 22KT gold and arranged inside our deep red velvet bridal trousseau box with the official Dhunna Jewellers & Sons emblem. Features cascading gold bead garlands anchored by deeply carved royal medallions and tassel fringes, accompanied by matching handcrafted bridal jhumkas.',
-    specifications: {
-      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '65.50 grams',
-      'Net Gold Weight': '65.50 grams',
-      'Set Includes': 'Multi-Tier Rani Haar + Matching Jhumka Pair',
-      'Presentation': 'Dhunna Jewellers & Sons Red Velvet Bridal Box',
-      'Certification': 'BIS Hallmark 916 with HUID',
-      'Showroom Availability': 'Ready in Gill Village Showroom, Ludhiana'
-    },
-    culturalSignificance: 'The supreme centerpiece of the traditional Punjabi Anand Karaj trousseau, symbolizing royal family heritage.'
-  },
-  {
-    id: 'dj-choker-set',
-    name: 'Shahi Gulbandh 22KT Gold Choker Suite',
+    id: 'dj-teal-choker',
+    name: 'Royal Meenakari & Emerald Antique 22KT Choker Suite',
     category: 'necklaces',
     subcategory: 'Necklaces',
     goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 48.00,
-    netWeight: 48.00,
+    grossWeight: 54.20,
+    netWeight: 54.20,
     makingCharges: '12%',
-    price: 687800, // 48g @ 12,480/g + 12% making + 3% GST
+    price: 776500, // 54.2g @ 12,480/g + 12% making + 3% GST
     isNew: true,
     isBestSeller: true,
     isBridal: true,
     isOriginalShowroomPiece: true,
-    badgeText: 'INSIDE VELVET CHOKER BOX',
+    badgeText: 'SHOWROOM SPOTLIGHT SUITE',
     images: [
-      '/images/dhunna-choker-box.jpg',
-      '/images/dhunna-showroom-interior-1.jpg'
-    ],
-    shortDesc: 'Sculpted articulating 22KT gold Gulbandh choker with delicate gold droplet fringe bells, nestled in our luxury velvet presentation box.',
-    description: 'Presented inside our custom red velvet case with the Dhunna Jewellers & Sons insignia. Precision-hinged 22KT gold panels contour the collarbone gracefully, finished with a rhythmic fringe of gold ghungroo beads that chime softly with movement.',
-    specifications: {
-      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '48.00 grams',
-      'Presentation': 'Dhunna Jewellers & Sons Velvet Neck-Piece Box',
-      'Closure': 'Adjustable Gold Zari Thread Dori',
-      'Certification': 'BIS Hallmark 916'
-    },
-    culturalSignificance: 'Frames the bride’s face in pure gold radiance on her wedding day.'
-  },
-  {
-    id: 'dj-kadas-shermukhi',
-    name: 'Sher-Mukhi Punjabi Solid 22KT Gold Kada Pair',
-    category: 'bangles',
-    subcategory: 'Bangles & Kadas',
-    goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 45.00,
-    netWeight: 45.00,
-    makingCharges: '10%',
-    price: 636300, // 45g @ 12,480/g + 10% making + 3% GST
-    isNew: true,
-    isBestSeller: true,
-    isBridal: true,
-    isOriginalShowroomPiece: true,
-    badgeText: 'SOLID 22KT KADA PAIR IN BOX',
-    images: [
-      '/images/dhunna-kadas-box.jpg',
+      '/images/dhunna-real-teal-choker.jpg',
       '/images/dhunna-showroom-interior-2.jpg'
     ],
-    shortDesc: 'Heavy solid 22KT gold Punjabi kadas featuring hand-carved Sher-Mukhi (lion-head) terminals and ruby eyes, displayed in our velvet kada box.',
-    description: 'Photographed in our luxury red velvet box bearing the Dhunna Jewellers & Sons insignia. Crafted in solid 22KT gold bullion with deeply chiseled lion-head terminals, ruby gemstone accents, and floral jaali reliefs. Heavy, substantial, and equipped with handcrafted safety closures.',
+    shortDesc: 'Opulent antique 22KT gold choker with central ruby medallion, jade-green bead droplets, and matching earrings in luxury illuminated showroom box.',
+    description: 'Real showroom photograph taken under spotlight. This masterwork choker features heavy hand-carved floral repoussé panels, a crowned ruby centerpiece, and a synchronized fringe of natural green jade beads and golden pearls. Comes with matching royal ear-hangings, ready in our Gill Village showroom.',
     specifications: {
       'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '45.00 grams (Pair)',
-      'Size': '2.6 (Adjustable in Ludhiana showroom)',
-      'Lock Type': 'Handcrafted Screw Clasp with Safety Hinge',
-      'Presentation': 'Dhunna Jewellers & Sons Velvet Bangle Case',
-      'Certification': 'BIS Hallmark 916'
+      'Gross Weight': '54.20 grams',
+      'Set Includes': 'Bridal Choker + Matching Earring Pair',
+      'Presentation': 'Luxury Illuminated Showroom Box',
+      'Market Rate Applied': '₹12,480/g (Ludhiana Bullion Rate Today)',
+      'Certification': 'BIS Hallmark 916 with Laser HUID',
+      'Showroom Availability': 'Ready in Gill Village Showroom, Ludhiana'
     },
-    culturalSignificance: 'The kada embodies strength, integrity, and timeless lineage across Punjab.'
+    culturalSignificance: 'The royal necklace of Punjab kings and queens, celebrating sovereign bridal grandeur.'
   },
   {
-    id: 'dj-earrings-chandbali',
-    name: 'Maharani 22KT Chandbali Filigree Jhumkas',
-    category: 'earrings',
-    subcategory: 'Earrings & Jhumkas',
+    id: 'dj-rani-haar-emerald',
+    name: 'Imperial Punjabi Navratan Rani Haar & Tikka Suite',
+    category: 'bridal-sets',
+    subcategory: 'Bridal Sets',
     goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 22.00,
-    netWeight: 22.00,
-    makingCharges: '13%',
-    price: 320800, // 22g @ 12,480/g + 13% making + 3% GST
+    grossWeight: 78.50,
+    netWeight: 78.50,
+    makingCharges: '12%',
+    price: 1124500, // 78.5g @ 12,480/g + 12% making + 3% GST
     isNew: true,
     isBestSeller: true,
     isBridal: true,
     isOriginalShowroomPiece: true,
-    badgeText: 'INSIDE VELVET EARRING BOX',
+    badgeText: 'GRAND BRIDAL TROUSSEAU',
     images: [
-      '/images/dhunna-earrings-box.jpg',
-      '/images/dhunna-showroom-interior-1.jpg'
+      '/images/dhunna-real-rani-haar-emerald.jpg',
+      '/images/dhunna-showroom-interior-2.jpg'
     ],
-    shortDesc: 'Handcrafted 22KT yellow gold Punjabi Chandbali-Jhumkas with wire filigree and dangling micro gold bells in our velvet earring box.',
-    description: 'Seated in the cream silk slots of our luxury red velvet earring box with the official Dhunna Jewellers & Sons emblem. Features crescent moon filigree lace, floral ear-studs, and tiered dangling micro-ghungroos.',
+    shortDesc: 'Majestic multi-tier bead Rani Haar with square emerald cabochons, massive embossed medallion, matching Maang Tikka and jhumkas in black velvet box.',
+    description: 'Photographed in our luxury black velvet presentation case. This supreme Punjabi bridal suite features four rows of pearl-gold beads accented with ruby and emerald gemstone spacers, an expansive sunburst royal medallion with dangling gold leaf tassels, an ornate circular Maang Tikka, and matching chandelier jhumkas.',
     specifications: {
       'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '22.00 grams (Pair)',
-      'Dimensions': '6.8 cm length x 4.2 cm width',
-      'Closure': 'South Indian / Bombay Screw Post',
-      'Presentation': 'Dhunna Jewellers & Sons Velvet Box',
-      'Certification': 'BIS Hallmark 916'
+      'Gross Weight': '78.50 grams',
+      'Pieces Included': 'Rani Haar + Maang Tikka + Pair of Jhumkas (3-Piece Full Suite)',
+      'Presentation': 'Deep Velvet Showroom Trousseau Box',
+      'Certification': 'BIS Hallmark 916 Stamped (Ludhiana)',
+      'Showroom Availability': 'In stock at Gill Village, Ludhiana'
     },
-    culturalSignificance: 'The quintessential jewel of Punjabi celebrations and Anand Karaj grace.'
+    culturalSignificance: 'The crowning masterpiece of the Anand Karaj bride, reflecting unbroken aristocratic lineage.'
   },
   {
-    id: 'dj-ring-lotus',
-    name: 'Virasat Lotus 22KT Gold Cocktail Ring',
-    category: 'rings',
-    subcategory: 'Rings',
+    id: 'dj-rani-haar-gold',
+    name: 'Shahi Amritsari Pure Gold Rani Haar, Earring & Ring Set',
+    category: 'bridal-sets',
+    subcategory: 'Bridal Sets',
     goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 9.50,
-    netWeight: 9.50,
+    grossWeight: 68.00,
+    netWeight: 68.00,
+    makingCharges: '11%',
+    price: 966800, // 68g @ 12,480/g + 11% making + 3% GST
+    isNew: true,
+    isBestSeller: true,
+    isBridal: true,
+    isOriginalShowroomPiece: true,
+    badgeText: 'PURE GOLD RANI HAAR SUITE',
+    images: [
+      '/images/dhunna-real-rani-haar-gold.jpg',
+      '/images/dhunna-showroom-interior-1.jpg'
+    ],
+    shortDesc: 'Triple-strand solid 22KT gold bead mala with engraved bar spacers, openwork filigree medallion, matching shoulder-duster earrings and cocktail ring in velvet box.',
+    description: 'Direct showroom photograph on black velvet. Forged entirely from solid 22KT yellow gold without colored stones. Features triple synchronized rows of hand-turned solid gold beads, rectangular jaali bar connectors, an opulent lattice medallion with swinging gold droplets, long articulated earrings, and a matching royal cocktail ring.',
+    specifications: {
+      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
+      'Gross Weight': '68.00 grams (100% Solid Gold Bullion)',
+      'Set Includes': 'Rani Haar + Matching Ring + Long Earring Pair',
+      'Presentation': 'Velvet Display Box with Gold Trim',
+      'Certification': 'BIS Hallmark 916'
+    },
+    culturalSignificance: 'Generational bridal treasure carrying 100% gold bullion security and royal Punjabi identity.'
+  },
+  {
+    id: 'dj-bridal-choker-tikka',
+    name: 'Virasat 22KT Gold Bridal Choker, Maang Tikka & Jhumka Set',
+    category: 'necklaces',
+    subcategory: 'Necklaces',
+    goldPurity: '22KT Gold (916 Hallmarked)',
+    grossWeight: 46.50,
+    netWeight: 46.50,
     makingCharges: '12%',
-    price: 136100, // 9.5g @ 12,480/g + 12% making + 3% GST
+    price: 666200, // 46.5g @ 12,480/g + 12% making + 3% GST
+    isNew: true,
+    isBestSeller: true,
+    isBridal: true,
+    isOriginalShowroomPiece: true,
+    badgeText: 'COMPLETE CHOKER & TIKKA SET',
+    images: [
+      '/images/dhunna-real-bridal-choker-tikka.jpg',
+      '/images/dhunna-showroom-interior-2.jpg'
+    ],
+    shortDesc: '22KT gold jaali choker with dangling pearl & ruby micro-bead fringe, matching circular Maang Tikka, and jhumkas in luxury ivory satin box.',
+    description: 'Photographed inside our satin presentation box. A classic North Indian bridal necklace engineered with precision-hinged 22KT gold plates, hanging pearl cluster drops, an auspicious circular sunburst Maang Tikka, and coordinating bell jhumkas.',
+    specifications: {
+      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
+      'Gross Weight': '46.50 grams',
+      'Set Includes': 'Choker + Maang Tikka + Pair of Jhumkas',
+      'Presentation': 'Luxury Ivory Satin & Leatherette Case',
+      'Certification': 'BIS Hallmark 916 with HUID'
+    },
+    culturalSignificance: 'Gracefully frames the bride’s visage during wedding pheras and traditional ceremonies.'
+  },
+  {
+    id: 'dj-maroon-choker',
+    name: 'Noor-e-Punjab Royal Gulbandh Choker & Umbrella Jhumkas',
+    category: 'necklaces',
+    subcategory: 'Necklaces',
+    goldPurity: '22KT Gold (916 Hallmarked)',
+    grossWeight: 52.00,
+    netWeight: 52.00,
+    makingCharges: '12%',
+    price: 745000, // 52g @ 12,480/g + 12% making + 3% GST
+    isNew: true,
+    isBestSeller: true,
+    isBridal: true,
+    isOriginalShowroomPiece: true,
+    badgeText: 'HEAVY GULBANDH SUITE',
+    images: [
+      '/images/dhunna-real-maroon-choker.jpg',
+      '/images/dhunna-showroom-interior-1.jpg'
+    ],
+    shortDesc: 'Heavy solid 22KT gold choker with dual-tier scalloped arches and matching umbrella jhumkas on maroon velvet bust.',
+    description: 'Showroom photograph on our deep maroon velvet bust. This substantial 52-gram set combines an ergonomic wide-band gold choker with intricate filigree jaali arches and dangling micro ghungroo bells, paired with cascading floral umbrella jhumkas.',
+    specifications: {
+      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
+      'Gross Weight': '52.00 grams',
+      'Earring Pair Weight': '14.50 grams (included)',
+      'Finish': 'Authentic 22KT High Polish Yellow Gold',
+      'Certification': 'BIS Hallmark 916'
+    },
+    culturalSignificance: 'The signature collar necklace of Punjabi wedding trousseaus.'
+  },
+  {
+    id: 'dj-green-box-choker',
+    name: 'Patiala Shahi Pearl-Fringed Choker & Jhumka Suite',
+    category: 'necklaces',
+    subcategory: 'Necklaces',
+    goldPurity: '22KT Gold (916 Hallmarked)',
+    grossWeight: 42.80,
+    netWeight: 42.80,
+    makingCharges: '12%',
+    price: 613200, // 42.8g @ 12,480/g + 12% making + 3% GST
+    isNew: false,
+    isBestSeller: true,
+    isBridal: true,
+    isOriginalShowroomPiece: true,
+    badgeText: 'INSIDE LUXURY GREEN BOX',
+    images: [
+      '/images/dhunna-real-green-box-choker.jpg',
+      '/images/dhunna-showroom-interior-2.jpg'
+    ],
+    shortDesc: 'Antique floral medallion collar with dangling cultured seed pearls and matching bell jhumkas in open emerald-green presentation box.',
+    description: 'Photographed in our emerald green velvet box. Features interlocking circular floral gold coins bordered by hanging seed pearls and matching two-tier jhumki earrings.',
+    specifications: {
+      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
+      'Gross Weight': '42.80 grams',
+      'Necklace Length': 'Adjustable Zari Dori',
+      'Presentation': 'Luxury Emerald Green Presentation Box',
+      'Certification': 'BIS Hallmark 916'
+    },
+    culturalSignificance: 'Inspired by the historic royal courts of Patiala and Kapurthala.'
+  },
+  {
+    id: 'dj-pippal-patti-set',
+    name: 'Traditional Punjabi Pippal Patti Folk Necklace & Earring Set',
+    category: 'traditional',
+    subcategory: 'Traditional Punjabi Jewellery',
+    goldPurity: '22KT Gold (916 Hallmarked)',
+    grossWeight: 38.50,
+    netWeight: 38.50,
+    makingCharges: '11%',
+    price: 548200, // 38.5g @ 12,480/g + 11% making + 3% GST
+    isNew: true,
+    isBestSeller: true,
+    isBridal: true,
+    isOriginalShowroomPiece: true,
+    badgeText: 'AUTHENTIC PIPPAL PATTI SET',
+    images: [
+      '/images/dhunna-real-pippal-patti-set.jpg',
+      '/images/dhunna-showroom-interior-1.jpg'
+    ],
+    shortDesc: 'Authentic Punjabi folk Pippal Patti gold necklace with circular filigree medallions and dangling heart-shaped sacred fig leaf drops on red velvet.',
+    description: 'Direct showroom photograph on red velvet. Features seven hand-beaten circular filigree chakkar medallions adorned with fluttering gold sacred fig leaves (Pippal Patti) that rustle gently, paired with matching oversized statement earrings.',
+    specifications: {
+      'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
+      'Gross Weight': '38.50 grams',
+      'Set Includes': 'Pippal Patti Necklace + Matching Earring Pair',
+      'Presentation': 'Showroom Red Velvet Display Tray',
+      'Certification': 'BIS Hallmark 916 Stamped (Ludhiana)'
+    },
+    culturalSignificance: 'Celebrated in Punjabi folk songs and weddings as an emblem of timeless maternal blessing.'
+  },
+  {
+    id: 'dj-necklace-card-34g',
+    name: 'Dhunna 22KT Ready-Made Gold Haar Set (Exact 34.69g)',
+    category: 'necklaces',
+    subcategory: 'Necklaces',
+    goldPurity: '22KT Gold (916 Hallmarked)',
+    grossWeight: 34.69,
+    netWeight: 30.59,
+    makingCharges: '11%',
+    price: 493900, // 34.69g @ 12,480/g + 11% making + 3% GST
     isNew: true,
     isBestSeller: true,
     isBridal: false,
     isOriginalShowroomPiece: true,
-    badgeText: 'INSIDE VELVET RING BOX',
+    badgeText: 'VERIFIED 34.69g SHOWROOM PIECE',
     images: [
-      '/images/dhunna-ring-box.jpg',
+      '/images/dhunna-real-necklace-card-34g.jpg',
       '/images/dhunna-showroom-interior-2.jpg'
     ],
-    shortDesc: 'Substantial 22KT gold cocktail ring featuring an embossed multi-petal lotus medallion, resting in our luxury velvet ring box.',
-    description: 'Photographed inside our red velvet presentation box with the Dhunna Jewellers & Sons diamond insignia. Sculpted entirely from pure 22KT gold without stones, ensuring 100% gold bullion retention with diamond-cut sparkle.',
+    shortDesc: 'Fresh ready-made showroom stock with official weight card: Gross Weight 34.690g, Net Weight 30.590g. Scalloped gold lace necklace with matching jhumkas.',
+    description: 'Photographed in showroom packaging showing verified electronic scale weights: Gross Wt 34.690g, Net Wt 30.590g. Sculpted with graduated circular floral medallions, teardrop gold spangles, and matching South-screw earrings.',
     specifications: {
       'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '9.50 grams',
-      'Ring Size': 'Indian 14 (Comfort band adjustable in showroom)',
-      'Presentation': 'Dhunna Jewellers & Sons Velvet Ring Case',
-      'Certification': 'BIS Hallmark 916'
+      'Exact Gross Weight': '34.690 grams (Verified on Showroom Scale)',
+      'Net Gold Weight': '30.590 grams',
+      'Set Includes': 'Necklace + Pair of Matching Jhumkas',
+      'Certification': 'BIS Hallmark 916 with Laser HUID'
     },
-    culturalSignificance: 'The lotus symbolizes purity, prosperity, and spiritual blessings in Punjabi culture.'
+    culturalSignificance: 'Ready for immediate counter purchase and wedding gifting.'
   },
   {
-    id: 'dj-chain-rope',
-    name: 'Solid 22KT Hand-Twisted Gold Rope Chain',
+    id: 'dj-bead-mala-56g',
+    name: 'Emerald & Ruby Beaded 22KT Gold Mala Suite (56.04g)',
     category: 'gold-chains',
     subcategory: 'Gold Chains',
     goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 32.00,
-    netWeight: 32.00,
-    makingCharges: '9%',
-    price: 448500, // 32g @ 12,480/g + 9% making + 3% GST
-    isNew: false,
+    grossWeight: 56.04,
+    netWeight: 20.95,
+    makingCharges: '10%',
+    price: 448000,
+    isNew: true,
     isBestSeller: true,
-    isBridal: false,
+    isBridal: true,
     isOriginalShowroomPiece: true,
-    badgeText: 'IN VELVET CHAIN CASE',
+    badgeText: 'VERIFIED 56.04g MALA SUITE',
     images: [
-      '/images/dhunna-gold-chain-box.jpg',
+      '/images/dhunna-real-bead-mala-56g.jpg',
       '/images/dhunna-showroom-interior-1.jpg'
     ],
-    shortDesc: 'Heavy solid 22KT yellow gold twisted rope chain laid out in our long slim velvet presentation case.',
-    description: 'Presented in our long velvet chain box with the Dhunna Jewellers & Sons emblem. Features tight, heavy interlocking gold spirals that drape smoothly on the chest, finished with a heavy barrel lobster clasp for absolute security.',
+    shortDesc: 'Multi-strand natural emerald and ruby bead garlands flanking a heavy circular embossed peacock-feather gold medallion and matching hanging earrings (56.040 gm).',
+    description: 'Showroom piece with verified tag: Gross 56.040 gm, Net Gold 20.950 gm. Five rows of alternating gold beads, uncut emeralds, and ruby spheres connecting to a grand circular repoussé gold pendant with hanging gemstone drops, with matching ear-stud drops.',
     specifications: {
       'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '32.00 grams',
-      'Length': '24 Inches',
-      'Width': '4.5 mm solid gauge',
-      'Presentation': 'Dhunna Jewellers & Sons Long Velvet Case',
+      'Total Gross Weight': '56.040 grams (Verified)',
+      'Net Gold Weight': '20.950 grams Pure 22KT Gold',
+      'Natural Gemstones': 'Emerald & Ruby Beads (35.100 Ct)',
       'Certification': 'BIS Hallmark 916'
     },
-    culturalSignificance: 'Prestigious everyday asset and solid gold bullion investment.'
+    culturalSignificance: 'Regal contrast of pure yellow gold with precious green and crimson jewels.'
   },
   {
-    id: 'dj-pendant-khanda',
-    name: 'Sacred 22KT Khanda Sahib Medallion Pendant',
+    id: 'dj-pendant-set',
+    name: 'Antique 22KT Gold Royal Shield Pendant & Earring Suite',
     category: 'pendants',
     subcategory: 'Pendants',
     goldPurity: '22KT Gold (916 Hallmarked)',
-    grossWeight: 16.50,
-    netWeight: 16.50,
+    grossWeight: 24.50,
+    netWeight: 24.50,
     makingCharges: '11%',
-    price: 236200, // 16.5g @ 12,480/g + 11% making + 3% GST
+    price: 348800, // 24.5g @ 12,480/g + 11% making + 3% GST
     isNew: true,
     isBestSeller: true,
     isBridal: false,
     isOriginalShowroomPiece: true,
-    badgeText: 'IN VELVET PENDANT BOX',
+    badgeText: 'ANTIQUE 22KT PENDANT SUITE',
     images: [
-      '/images/dhunna-pendant-box.jpg',
+      '/images/dhunna-real-pendant-set.jpg',
       '/images/dhunna-showroom-interior-2.jpg'
     ],
-    shortDesc: 'Sacred 22KT gold Punjabi Khanda Sahib medallion pendant on heavy gold chain, resting in our velvet gift box.',
-    description: 'Photographed inside our red velvet box with the Dhunna Jewellers & Sons insignia. Sculpted with surgical crispness in 22KT solid gold, portraying the sacred Khanda, Chakkar circle, and twin Kirpans in high relief with a diamond-cut sunburst border.',
+    shortDesc: 'Antique diamond-shield shaped central gold pendant carved with fine filigree, bezel-set ruby center stone, and dangling ruby beads with matching twin drop earrings on red velvet.',
+    description: 'Direct showroom photograph on red velvet. Features an antique-finish rhombus shield medallion with concentric floral carvings, a central ruby cabochon, and a dangling fringe of faceted ruby drops and gold beads, accompanied by matching earrings.',
     specifications: {
       'Gold Purity': '22KT Hallmarked Gold (BIS 916)',
-      'Gross Weight': '16.50 grams',
-      'Bail Size': 'Heavy 6mm bail accommodating thick chains',
-      'Presentation': 'Dhunna Jewellers & Sons Velvet Box',
+      'Gross Weight': '24.50 grams',
+      'Set Includes': 'Shield Pendant + Matching Earring Pair',
+      'Presentation': 'Showroom Red Velvet Display Setting',
       'Certification': 'BIS Hallmark 916'
     },
-    culturalSignificance: 'An emblem of divine truth, righteous valor, and Punjabi Sikh identity.'
+    culturalSignificance: 'Exquisite statement piece worn with heavy silk suits and festive sarees.'
   }
 ];
 
@@ -350,24 +438,24 @@ export const BRIDAL_HERO_ITEMS = [
     tagline: 'Authentic 40g 22KT Punjabi Chand Haar ready in Ludhiana showroom.'
   },
   {
-    title: 'Imperial Amritsari Rani Haar',
+    title: 'Imperial Navratan Rani Haar Suite',
     category: 'Bridal Box Suite',
-    weight: '65.50g Pure Gold',
-    image: '/images/dhunna-rani-haar-box.jpg',
-    tagline: 'Cascading royal Punjabi Rani Haar with matching jhumkas in velvet box.'
+    weight: '78.50g Pure Gold',
+    image: '/images/dhunna-real-rani-haar-emerald.jpg',
+    tagline: 'Grand Punjabi Rani Haar with matching tikka & jhumkas in black velvet box.'
   },
   {
-    title: 'Shahi Gulbandh Choker Suite',
-    category: 'Bridal Necklaces',
-    weight: '48.00g Pure Gold',
-    image: '/images/dhunna-choker-box.jpg',
-    tagline: 'Contoured 22KT choker with dangling ghungroo bells in velvet case.'
+    title: 'Royal Meenakari Antique Choker',
+    category: 'Bridal Choker Suite',
+    weight: '54.20g Antique Gold',
+    image: '/images/dhunna-real-teal-choker.jpg',
+    tagline: 'Antique choker with central ruby medallion & emerald beads in teal box.'
   },
   {
-    title: 'Sher-Mukhi Punjabi Kada Pair',
-    category: 'Chooda & Bangles',
-    weight: '45.00g Solid Gold',
-    image: '/images/dhunna-kadas-box.jpg',
-    tagline: 'Solid 22KT gold lion-head kadas with ruby eyes in velvet box.'
+    title: 'Shahi Amritsari Rani Haar Set',
+    category: 'Pure Gold Heirloom',
+    weight: '68.00g Solid Gold',
+    image: '/images/dhunna-real-rani-haar-gold.jpg',
+    tagline: 'Triple-strand solid gold mala with matching ring and earrings in velvet box.'
   }
 ];

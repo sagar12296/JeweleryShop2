@@ -24,30 +24,30 @@ export default function BridalShowcase({ onSelectBridalItem, onOpenBooking, form
     },
     {
       id: 'rani-haar',
-      name: 'Imperial Amritsari Rani Haar',
-      subtitle: 'Cascading Punjabi Royalty (65.50g)',
-      weight: '65.50g Pure Gold in Box',
-      image: '/images/dhunna-rani-haar-box.jpg',
-      description: 'Cascading multi-strand gold bead garlands anchored by deeply carved royal medallions and tassel fringes, accompanied by matching jhumkas in our branded red velvet box.',
-      highlights: ['Presented in Velvet Bridal Box', 'Includes Matching Bridal Jhumkas', 'Hallmark 916 with HUID']
+      name: 'Imperial Navratan Rani Haar & Tikka Suite',
+      subtitle: 'Cascading Punjabi Royalty (78.50g)',
+      weight: '78.50g Pure Gold in Box',
+      image: '/images/dhunna-real-rani-haar-emerald.jpg',
+      description: 'Cascading multi-strand gold bead garlands anchored by emerald cabochons, massive royal medallion, matching Maang Tikka and jhumkas in black velvet box.',
+      highlights: ['Presented in Velvet Bridal Box', 'Includes Matching Tikka & Jhumkas', 'Hallmark 916 with HUID']
     },
     {
       id: 'gulbandh',
-      name: 'Shahi Gulbandh Choker Suite',
-      subtitle: 'Intricate Collar Masterpiece (48.00g)',
-      weight: '48.00g Solid Gold in Box',
-      image: '/images/dhunna-choker-box.jpg',
-      description: 'Sculpted articulating gold plates that encircle the bride’s neck with chiming gold ghungroo drops, displayed in our custom velvet case.',
-      highlights: ['Articulated Ergonomic Panels', 'Fringed Gold Droplet Bells', 'Adjustable Zari Thread Dori']
+      name: 'Royal Meenakari & Emerald Antique Choker',
+      subtitle: 'Showroom Spotlight Masterpiece (54.20g)',
+      weight: '54.20g Antique Gold in Box',
+      image: '/images/dhunna-real-teal-choker.jpg',
+      description: 'Antique 22KT gold choker with central ruby medallion, delicate emerald green bead drops, and matching jhumka earrings in illuminated teal showroom box.',
+      highlights: ['Illuminated Luxury Presentation Box', 'Antique 22KT Gold Finish', 'Includes Matching Earring Pair']
     },
     {
-      id: 'kadas-chooda',
-      name: 'Sher-Mukhi Punjabi Kada Pair',
-      subtitle: 'Heirloom Wrist Adornments (45.00g)',
-      weight: '45.00g Solid Gold in Box',
-      image: '/images/dhunna-kadas-box.jpg',
-      description: 'Heavy solid 22KT kadas with hand-engraved Sher-Mukhi (lion-head) motifs, ruby gemstone eyes, and handcrafted safety screws.',
-      highlights: ['Solid Bullion Core in Velvet Box', 'Handmade Screw Pin Clasp', 'Fits Bridal Chooda Accents']
+      id: 'pippal-patti',
+      name: 'Traditional Punjabi Pippal Patti Folk Suite',
+      subtitle: 'Heirloom Trousseau Adornment (38.50g)',
+      weight: '38.50g Solid Gold on Velvet',
+      image: '/images/dhunna-real-pippal-patti-set.jpg',
+      description: 'Authentic Punjabi folk Pippal Patti gold necklace with circular filigree medallions and dangling heart-shaped sacred fig leaf drops with matching earrings.',
+      highlights: ['Traditional Folk Artistry', 'Fluttering Sacred Leaf Drops', 'Fits Bridal Chooda Accents']
     }
   ];
 

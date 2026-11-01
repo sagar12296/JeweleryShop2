@@ -32,12 +32,12 @@ export default function HeroSection({ onExploreClick, onShowroomClick, onSelect4
       isOriginal: true
     },
     {
-      title: "Imperial Amritsari 22KT Rani Haar",
-      type: "Authentic Bridal Box Suite",
-      weight: "65.50g Pure Gold in Box",
-      description: "Grand Punjabi Rani Haar with matching jhumkas presented inside our signature Dhunna Jewellers & Sons red velvet trousseau box.",
-      image: "/images/dhunna-rani-haar-box.jpg",
-      badge: "ROYAL BRIDAL BOX SUITE",
+      title: "Royal Meenakari Antique 22KT Choker",
+      type: "Authentic Showroom Spotlight Suite",
+      weight: "54.20g Pure Gold in Box",
+      description: "Antique 22KT gold choker with central ruby medallion, delicate emerald green bead drops, and matching earrings in luxury illuminated showroom box.",
+      image: "/images/dhunna-real-teal-choker.jpg",
+      badge: "SHOWROOM SPOTLIGHT SUITE",
       isOriginal: true
     },
     {
