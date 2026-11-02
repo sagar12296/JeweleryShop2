@@ -95,7 +95,7 @@ export default function CustomerExperience({ onSelectProductByName }) {
             <div>
               <div className="flex items-center justify-center sm:justify-start gap-2 text-[#D4AF37] text-xs font-semibold uppercase tracking-wider mb-1">
                 <Instagram className="w-4 h-4" />
-                <span>@dhunna_jewellers__ on Instagram</span>
+                <span>@dhunna_jewellers____ on Instagram</span>
               </div>
               <h3 className="text-2xl sm:text-3xl font-heading font-bold text-white uppercase">
                 THE GILL VILLAGE (LDH) SHOWROOM FEED
@@ -103,12 +103,12 @@ export default function CustomerExperience({ onSelectProductByName }) {
             </div>
 
             <a
-              href="https://instagram.com/dhunna_jewellers__"
+              href="https://instagram.com/dhunna_jewellers____"
               target="_blank"
               rel="noopener noreferrer"
               className="px-5 py-2.5 rounded-full bg-[#1A1A22] border border-[#D4AF37]/30 text-[#F7E7B4] hover:bg-[#D4AF37] hover:text-black text-xs font-semibold tracking-wider uppercase transition-all duration-300"
             >
-              Follow @dhunna_jewellers__
+              Follow @dhunna_jewellers____
             </a>
           </div>
 

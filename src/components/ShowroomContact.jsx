@@ -199,12 +199,12 @@ export default function ShowroomContact({ prefilledProduct }) {
                       <Instagram className="w-3.5 h-3.5" />
                       <span>Instagram: </span>
                       <a 
-                        href="https://instagram.com/dhunna_jewellers__" 
+                        href="https://instagram.com/dhunna_jewellers____" 
                         target="_blank" 
                         rel="noopener noreferrer" 
                         className="underline hover:text-white font-medium"
                       >
-                        @dhunna_jewellers__
+                        @dhunna_jewellers____
                       </a>
                     </p>
                   </div>

@@ -9,8 +9,8 @@ export const GOLD_RATE_DATE = 'Today (Live Rate - Ludhiana Sarafa Association)';
 export const CONTACT_PRIMARY = '7986013912';
 export const CONTACT_SECONDARY = '8054444423';
 export const SHOWROOM_ADDRESS = 'Near Jutti Market, Gill Village, Ludhiana, Punjab 141116';
-export const INSTAGRAM_ID = 'dhunna_jewellers__';
-export const INSTAGRAM_URL = 'https://instagram.com/dhunna_jewellers__';
+export const INSTAGRAM_ID = 'dhunna_jewellers____';
+export const INSTAGRAM_URL = 'https://instagram.com/dhunna_jewellers____';
 
 // Authentic Showroom Photographs (Gill Village, Ludhiana)
 export const SHOWROOM_GALLERY = [

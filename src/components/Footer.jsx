@@ -1,15 +1,15 @@
 import React from 'react';
 import DiamondLogo from './DiamondLogo';
-import { 
-  Phone, 
-  MapPin, 
-  Clock, 
-  Instagram, 
-  Facebook, 
-  Youtube, 
-  MessageCircle, 
-  ShieldCheck, 
-  ArrowUp 
+import {
+  Phone,
+  MapPin,
+  Clock,
+  Instagram,
+  Facebook,
+  Youtube,
+  MessageCircle,
+  ShieldCheck,
+  ArrowUp
 } from 'lucide-react';
 import { CONTACT_PRIMARY, CONTACT_SECONDARY, getWhatsAppOrderLink } from '../data/products';
 
@@ -20,20 +20,20 @@ export default function Footer({ onCategoryClick }) {
 
   return (
     <footer className="bg-[#070709] text-gray-400 text-xs border-t border-[#D4AF37]/30 relative overflow-hidden">
-      
+
       {/* Subtle Gold Shimmer Top Border */}
       <div className="h-[2px] bg-gradient-to-r from-transparent via-[#D4AF37] to-transparent w-full" />
 
       {/* Main Footer Container */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-16 pb-12">
-        
+
         {/* Brand Banner Section with Diamond Line-Art Logo */}
         <div className="text-center space-y-4 pb-14 border-b border-white/10 flex flex-col items-center">
-          
-          <DiamondLogo 
-            className="w-10 h-7" 
-            size="lg" 
-            subtitle="22KT GOLD • GILL VILLAGE, LUDHIANA (141116)" 
+
+          <DiamondLogo
+            className="w-10 h-7"
+            size="lg"
+            subtitle="22KT GOLD • GILL VILLAGE, LUDHIANA (141116)"
           />
 
           {/* Exact Required Punjabi Tagline */}
@@ -53,7 +53,7 @@ export default function Footer({ onCategoryClick }) {
 
         {/* 4 Footer Columns */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 py-14 border-b border-white/10">
-          
+
           {/* Col 1: Showroom & Flagship */}
           <div className="space-y-4">
             <h4 className="text-xs font-heading font-bold text-white uppercase tracking-[0.2em] border-l-2 border-[#D4AF37] pl-2.5">
@@ -100,8 +100,8 @@ export default function Footer({ onCategoryClick }) {
                 'Sacred Pendants & Rings'
               ].map((item) => (
                 <li key={item}>
-                  <a 
-                    href="#collections" 
+                  <a
+                    href="#collections"
                     className="hover:text-[#F7E7B4] transition-colors flex items-center gap-1.5"
                   >
                     <span className="text-[#D4AF37] text-[10px]">›</span>
@@ -127,8 +127,8 @@ export default function Footer({ onCategoryClick }) {
                 { name: 'Showroom Visit & Map', href: '#contact' },
               ].map((link) => (
                 <li key={link.name}>
-                  <a 
-                    href={link.href} 
+                  <a
+                    href={link.href}
                     className="hover:text-[#F7E7B4] transition-colors flex items-center gap-1.5"
                   >
                     <span className="text-[#D4AF37] text-[10px]">›</span>
@@ -172,33 +172,33 @@ export default function Footer({ onCategoryClick }) {
 
             {/* Social Icons & Official Instagram ID */}
             <div className="pt-2 flex flex-col gap-2">
-              <a 
-                href="https://instagram.com/dhunna_jewellers__" 
-                target="_blank" 
-                rel="noopener noreferrer" 
+              <a
+                href="https://instagram.com/dhunna_jewellers____"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="flex items-center gap-2 text-xs text-[#F7E7B4] hover:text-white"
               >
                 <div className="p-2 rounded-lg bg-[#14141A] hover:bg-[#D4AF37] text-gray-300 hover:text-black border border-white/10 transition-colors">
                   <Instagram className="w-4 h-4" />
                 </div>
-                <span className="font-medium">@dhunna_jewellers__</span>
+                <span className="font-medium">@dhunna_jewellers____</span>
               </a>
 
               <div className="flex items-center gap-3 pt-1">
-                <a 
-                  href="https://facebook.com" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  aria-label="Facebook page" 
+                <a
+                  href="https://facebook.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Facebook page"
                   className="p-2 rounded-lg bg-[#14141A] hover:bg-[#D4AF37] text-gray-300 hover:text-black border border-white/10 transition-colors"
                 >
                   <Facebook className="w-4 h-4" />
                 </a>
-                <a 
-                  href="https://youtube.com" 
-                  target="_blank" 
-                  rel="noopener noreferrer" 
-                  aria-label="YouTube channel" 
+                <a
+                  href="https://youtube.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="YouTube channel"
                   className="p-2 rounded-lg bg-[#14141A] hover:bg-[#D4AF37] text-gray-300 hover:text-black border border-white/10 transition-colors"
                 >
                   <Youtube className="w-4 h-4" />
@@ -212,7 +212,7 @@ export default function Footer({ onCategoryClick }) {
 
         {/* Bottom Copyright & Hallmark Badges */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-gray-500">
-          
+
           <div className="flex items-center gap-2">
             <ShieldCheck className="w-4 h-4 text-[#D4AF37]" />
             <span>BIS Hallmark Registration #BIS-916-DHUNNA-LDH | Ludhiana, Punjab</span>

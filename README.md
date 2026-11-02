@@ -9,7 +9,7 @@ A high-end, luxury jewellery showroom e-commerce web platform for **DHUNNA JEWEL
 ## 💎 Verified Original Details & Showroom Profile
 
 - **Showroom Address:** Near Jutti Market, Gill Village, Ludhiana, Punjab 141116, India
-- **Official Instagram ID:** [@dhunna_jewellers__](https://instagram.com/dhunna_jewellers__)
+- **Official Instagram ID:** [@dhunna_jewellers____](https://instagram.com/dhunna_jewellers____)
 - **Direct WhatsApp Order Placement Numbers:**
   - Line 1: `+91 7986013912`
   - Line 2: `+91 8054444423`
